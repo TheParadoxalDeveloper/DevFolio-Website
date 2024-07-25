@@ -1,0 +1,681 @@
+/* -------------------  MEDIA QUERY ------------------ */
+
+
+/* Media Query for Small Mobile Devices */
+@media (max-width: 321px) and (min-width:0px) {
+
+    .about-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .about-left {
+        width: 99%;
+    }
+
+    .about-right {
+        width: 99%;
+    }
+
+    .upper-about-left {
+        flex-wrap: wrap;
+    }
+
+    .left-upper-about-left {
+        width: 99%;
+    }
+
+    .right-upper-about-left {
+        width: 99%;
+    }
+
+    .services-section .container{
+        
+        display:flex;
+        flex-wrap: wrap;
+    }
+    
+    .card-service {
+        width: 99%;
+    }
+
+    .counter-section {
+        height: 190vh;
+    }
+
+    .counter-section .container {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counter-section .container{
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counters {
+        flex-wrap: wrap;
+    }
+
+    .card-counter {
+        width: 99%;
+        padding-bottom: 40px;
+    }
+
+    .portfolio-section .container {
+        width: 100%;
+        flex-wrap: wrap;
+     }
+    
+     .portfolio-section .card {
+        width: 99%;    
+     }
+
+
+     .slider-section {
+        padding: 7rem;
+        height: 130vh;
+    
+    }
+
+    .blog-section .container {
+        flex-wrap: wrap;
+    }
+    
+    .blog-section .card {
+        text-align: left;
+        width: 99%;
+        margin-bottom: 30px;
+    }
+    
+    .box-card-blog {
+        top: -12px;
+        left: 38%;
+    }
+
+    .contact-section {
+        padding: 7rem 0;
+        width: 100%;
+    }
+    
+    .contact-section .container {
+        flex-wrap: wrap;
+    }
+
+    .contact-left {
+        width: 99%;
+    }
+    
+    .contact-right {
+        width: 99%;
+    }
+}
+
+@media (max-width: 376px) and (min-width:322px) {
+
+    .about-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .about-left {
+        width: 99%;
+    }
+
+    .about-right {
+        width: 99%;
+    }
+
+    .upper-about-left {
+        flex-wrap: wrap;
+    }
+
+    .left-upper-about-left {
+        width: 99%;
+    }
+
+    .right-upper-about-left {
+        width: 99%;
+    }
+
+    .services-section .container{
+        
+        display:flex;
+        flex-wrap: wrap;
+    }
+    
+    .card-service {
+        width: 99%;
+    }
+
+    .counter-section {
+        height: 140vh;
+    }
+
+    .counter-section .container {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counter-section .container{
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counters {
+        flex-wrap: wrap;
+    }
+
+    .card-counter {
+        width: 99%;
+        padding-bottom: 40px;
+    }
+
+    .portfolio-section .container {
+        width: 100%;
+        flex-wrap: wrap;
+     }
+    
+     .portfolio-section .card {
+        width: 99%;    
+     }
+
+     .slider-section {
+        padding: 7rem;
+        height: 90vh;
+    
+    }
+
+    .blog-section .container {
+        flex-wrap: wrap;
+    }
+    
+    .blog-section .card {
+        text-align: left;
+        width: 99%;
+        margin-bottom: 30px;
+    }
+    
+    .box-card-blog {
+        top: -12px;
+        left: 38%;
+    }
+
+    .contact-section {
+        padding: 7rem 0;
+        width: 100%;
+    }
+    
+    .contact-section .container {
+        flex-wrap: wrap;
+    }
+
+    .contact-left {
+        width: 99%;
+    }
+    
+    .contact-right {
+        width: 99%;
+    }
+
+}
+
+@media (max-width: 391px) and (min-width:377px) {
+
+    .about-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .about-left {
+        width: 99%;
+    }
+
+    .about-right {
+        width: 99%;
+    }
+
+    .upper-about-left {
+        flex-wrap: wrap;
+    }
+
+    .left-upper-about-left {
+        width: 99%;
+    }
+
+    .right-upper-about-left {
+        width: 99%;
+    }
+
+    .services-section .container{
+        
+        display:flex;
+        flex-wrap: wrap;
+    }
+    
+    .card-service {
+        width: 99%;
+    }
+
+    .counter-section {
+        height: 135vh;
+    }
+
+    .counter-section .container {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counter-section .container{
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counters {
+        flex-wrap: wrap;
+    }
+
+    .card-counter {
+        width: 99%;
+        padding-bottom: 40px;
+    }
+
+    .portfolio-section .container {
+        width: 100%;
+        flex-wrap: wrap;
+     }
+    
+     .portfolio-section .card {
+        width: 99%;    
+     }
+
+     .slider-section {
+        padding: 7rem;
+        height: 80vh;
+    
+    }
+
+    .blog-section .container {
+        flex-wrap: wrap;
+    }
+    
+    .blog-section .card {
+        text-align: left;
+        width: 99%;
+        margin-bottom: 30px;
+    }
+    
+    .box-card-blog {
+        top: -12px;
+        left: 38%;
+    }
+
+    .contact-section {
+        padding: 7rem 0;
+        width: 100%;
+    }
+    
+    .contact-section .container {
+        flex-wrap: wrap;
+    }
+
+    .contact-left {
+        width: 99%;
+    }
+    
+    .contact-right {
+        width: 99%;
+    }
+
+
+}
+
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) and (min-width:392px) {
+
+    .about-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .about-left {
+        width: 99%;
+    }
+
+    .about-right {
+        width: 99%;
+    }
+
+    .upper-about-left {
+        flex-wrap: wrap;
+    }
+
+    .left-upper-about-left {
+        width: 99%;
+    }
+
+    .right-upper-about-left {
+        width: 99%;
+    }
+
+    .services-section .container{
+        
+        display:flex;
+        flex-wrap: wrap;
+    }
+    
+    .card-service {
+        width: 99%;
+    }
+
+    .counter-section {
+        height: 120vh;
+    }
+
+    .counter-section .container {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counter-section .container{
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counters {
+        flex-wrap: wrap;
+    }
+
+    .card-counter {
+        width: 99%;
+        padding-bottom: 40px;
+    }
+
+
+     .portfolio-section .container {
+        width: 100%;
+        flex-wrap: wrap;
+     }
+    
+     .portfolio-section .card {
+        width: 99%;    
+     }
+
+
+
+     .slider-section {
+        padding: 7rem;
+        height: 80vh;
+    
+    }
+
+    .carousel .carousel-inner {
+        width: 100%;
+    }
+
+
+    
+
+    .blog-section .container {
+        flex-wrap: wrap;
+    }
+    
+    .blog-section .card {
+        text-align: left;
+        width: 99%;
+        margin-bottom: 30px;
+    }
+    
+    .box-card-blog {
+        top: -12px;
+        left: 38%;
+    }
+    
+
+    .contact-section {
+        padding: 7rem 0;
+        width: 100%;
+    }
+    
+    .contact-section .container {
+        flex-wrap: wrap;
+    }
+
+    .contact-left {
+        width: 99%;
+    }
+    
+    .contact-right {
+        width: 99%;
+    }
+
+    
+    
+
+
+
+
+}
+
+
+
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 768px) {
+
+    .about-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .about-left {
+        width: 99%;
+    }
+
+    .about-right {
+        width: 99%;
+    }
+
+    .upper-about-left {
+        flex-wrap: wrap;
+    }
+
+    .left-upper-about-left {
+        width: 49%;
+    }
+
+    .right-upper-about-left {
+        width: 49%;
+    }
+
+    .services-section .container{
+        
+        display:flex;
+        flex-wrap: wrap;
+    }
+    
+    .card-service {
+        width: 49%;
+    }
+
+    .counter-section {
+        height: 80vh;
+    }
+
+    .counter-section .container {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counter-section .container{
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counters {
+        flex-wrap: wrap;
+    }
+
+    .card-counter {
+        width: 49%;
+        padding-bottom: 40px;
+    }
+
+    .portfolio-section .container {
+        width: 100%;
+        flex-wrap: wrap;
+     }
+    
+     .portfolio-section .card {
+        width: 48%;    
+     }
+
+     .slider-section {
+        padding: 7rem;
+        height: 60vh;
+    
+    }
+
+    .blog-section .container {
+        flex-wrap: wrap;
+    }
+    
+    .blog-section .card {
+        text-align: left;
+        width: 99%;
+        margin-bottom: 30px;
+    }
+    
+    .box-card-blog {
+        top: -12px;
+        left: 38%;
+    }
+
+    .contact-section {
+        padding: 7rem 0;
+        width: 100%;
+    }
+    
+    .contact-section .container {
+        flex-wrap: wrap;
+    }
+
+    .contact-left {
+        width: 99%;
+    }
+    
+    .contact-right {
+        width: 99%;
+    }
+
+}
+
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 769px) and (max-width: 1024px) {
+
+    .about-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .about-left {
+        width: 99%;
+    }
+
+    .about-right {
+        width: 99%;
+    }
+
+    .upper-about-left {
+        flex-wrap: wrap;
+    }
+
+    .left-upper-about-left {
+        width: 49%;
+    }
+
+    .right-upper-about-left {
+        width: 49%;
+    }
+
+    .services-section .container{
+        
+        display:flex;
+        flex-wrap: wrap;
+    }
+    
+    .card-service {
+        width: 49%;
+    }
+
+    .counter-section {
+        height: 50vh;
+    }
+
+    .counter-section .container {
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counter-section .container{
+        flex-wrap: wrap;
+        display: flex;
+    }
+
+    .counters {
+        flex-wrap: wrap;
+    }
+
+    .card-counter {
+        width: 23%;
+        padding-bottom: 40px;
+    }
+
+    .portfolio-section .container {
+        width: 100%;
+        flex-wrap: wrap;
+     }
+    
+     .portfolio-section .card {
+        width: 48%;    
+     }
+
+     .slider-section {
+        padding: 7rem;
+        height: 50vh;
+    
+    }
+
+    .blog-section .container {
+        flex-wrap: wrap;
+    }
+    
+    .blog-section .card {
+        text-align: left;
+        width: 99%;
+        margin-bottom: 30px;
+    }
+    
+    .box-card-blog {
+        top: -12px;
+        left: 38%;
+    }
+
+    .contact-section {
+        padding: 7rem 0;
+        width: 100%;
+    }
+    
+    .contact-section .container {
+        flex-wrap: wrap;
+    }
+
+    .contact-left {
+        width: 99%;
+    }
+    
+    .contact-right {
+        width: 99%;
+    }
+
+}
